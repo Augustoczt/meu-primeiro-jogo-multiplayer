@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# meu-primeiro-jogo-multiplayer
+# meu-primeiro-jogo
 Um jogo multiplayer simples o suficiente para qualquer pesssoa aprender conceitos importantes sobre **arquitetura** e **desenvolvimento de software**.
 
 Ele foi projetado de uma forma modificável/hackeável para que você consiga implementar suas próprias idéias ou até reimplementar do zero em outras linguagens. Inclusive este é repositório é um **playground** de experimentos e qualquer tentativa será bem vinda.
